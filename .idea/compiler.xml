@@ -6,7 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+<<<<<<< HEAD
         <module name="KitapYurduGirisTest" />
+=======
+        <module name="KitapYurduTestProjesi" />
+>>>>>>> c45d0df (New)
       </profile>
     </annotationProcessing>
   </component>

@@ -73,14 +73,22 @@ public class allScens {
     @Given("^type email$")
     public void type_email() throws Throwable {
         WebElement emailField = driver.findElement(By.cssSelector("input[id='login-email']"));
+<<<<<<< HEAD
         emailField.sendKeys("muratcanbalci17@gmail.com");
+=======
+        emailField.sendKeys("testmail");
+>>>>>>> c45d0df (New)
         System.out.println("Email girildi.");
     }
 
     @Given("^type password$")
     public void type_password() throws Throwable {
         WebElement passwordField = driver.findElement(By.cssSelector("input[id='login-password']"));
+<<<<<<< HEAD
         passwordField.sendKeys("murat5462226062");
+=======
+        passwordField.sendKeys("testpass");
+>>>>>>> c45d0df (New)
         System.out.println("Password girildi.");
     }
 
