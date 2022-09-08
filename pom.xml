@@ -5,47 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.example</groupId>
-<<<<<<< HEAD
     <artifactId>KitapYurduGirisTest</artifactId>
-    <version>1.0-SNAPSHOT</version>
-
-    <properties>
-        <maven.compiler.source>8</maven.compiler.source>
-        <maven.compiler.target>8</maven.compiler.target>
-    </properties>
-    <dependencies>
-        <!-- https://mvnrepository.com/artifact/io.cucumber/cucumber-java -->
-        <dependency>
-            <groupId>io.cucumber</groupId>
-            <artifactId>cucumber-java</artifactId>
-            <version>1.2.6</version>
-        </dependency>
-
-        <!-- https://mvnrepository.com/artifact/info.cukes/cucumber-testng -->
-        <dependency>
-            <groupId>info.cukes</groupId>
-            <artifactId>cucumber-testng</artifactId>
-            <version>1.2.6</version>
-            <type>pom</type>
-        </dependency>
-        <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
-        <dependency>
-            <groupId>org.seleniumhq.selenium</groupId>
-            <artifactId>selenium-java</artifactId>
-            <version>4.4.0</version>
-        </dependency>
-        <!-- https://mvnrepository.com/artifact/org.testng/testng -->
-        <dependency>
-            <groupId>org.testng</groupId>
-            <artifactId>testng</artifactId>
-            <version>7.6.1</version>
-            <scope>test</scope>
-        </dependency>
-
-    </dependencies>
-
-=======
-    <artifactId>KitapYurduTestProjesi</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
@@ -126,5 +86,4 @@
         <scope>compile</scope>
     </dependency>
 </dependencies>
->>>>>>> c45d0df (New)
 </project>
